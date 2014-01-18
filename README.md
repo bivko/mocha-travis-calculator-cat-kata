@@ -9,4 +9,4 @@ Travis CI
 
 
 http://ci.testling.com/
-[![browser support](https://ci.testling.com/USER/PROJECT.png)](https://ci.testling.com/USER/PROJECT)
+[![browser support](https://ci.testling.com/bivko/mocha-travis-calculator-cat-kata.png)](https://ci.testling.com/bivko/mocha-travis-calculator-cat-kata)
