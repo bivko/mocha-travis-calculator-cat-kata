@@ -1,0 +1,31 @@
+{
+  "name": "mocha-travis-calculator-cat-kata",
+  "version": "0.0.0",
+  "description": "test CI",
+  "main": "source/calculator.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "should": "~2.1.1",
+    "mocha": "~1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bivko/mocha-travis-calculator-cat-kata.git"
+  },
+  "author": "em",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bivko/mocha-travis-calculator-cat-kata/issues"
+  },
+  "homepage": "https://github.com/bivko/mocha-travis-calculator-cat-kata",
+  "keywords": [
+    "Test",
+    "CI"
+  ]
+}
